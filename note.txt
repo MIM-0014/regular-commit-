@@ -1,0 +1,7 @@
+echo "# regular-commit-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MIM-0014/regular-commit-.git
+git push -u origin main
