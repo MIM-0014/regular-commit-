@@ -1,3 +1,6 @@
+
+Github Notes
+
 echo "# regular-commit-" >> README.md
 git init
 git add README.md
